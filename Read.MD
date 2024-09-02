@@ -1,3 +1,3 @@
 This my first flutter project
 <br>
-Auther - Abdul Ahad
+Auther - Abdul Ahad (Abdul Khan)
